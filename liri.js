@@ -29,7 +29,7 @@ if(process.argv[3]!= null){
 else{
 	var argThree = "No 3rd argument specified";
 }
-var initialCommand = process.argv[0] + ' ' + process.argv[1] + ' ' + process.argv[2] + ' ' + process.argv[3] + "\n";
+var initialCommand = process.argv[0] + ' ' + process.argv[1] + ' ' + argTwo + ' ' + "'"  + argThree + "'"  +"\n";
 	fs.appendFileSync("log.txt", initialCommand + "\n");
 function logAndDisplay(str) {
 	console.log(str);
@@ -124,7 +124,7 @@ logAndDisplay(tweets[i].text);
 //================================================
 function spotifyThisSong(movieOrSong) {
 	logAndDisplay('Querying Spotify now...');
-	logAndDisplay('Looking for ' + movieOrSong + '...');
+	logAndDisplay('Looking for ' + "'"  + movieOrSong + "'"  + '...');
 	logAndDisplay('===============================');
 	logAndDisplay('');
 spotify.search({ type: 'track', query: movieOrSong + '&limit=10' }, function(err, data) {
