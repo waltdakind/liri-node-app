@@ -89,9 +89,11 @@ switch(liri) {
 		    	logAndDisplay('');
 				logAndDisplay('  do-what-it-says    --   this calls whatever command is stored in random.txt'); 
 				logAndDisplay('');
+				break;
     default:
         //give possible commands
         logAndDisplay('Command \'' + liri + '\' not recognized, type \'node liri help\' for list of commands');
+        break;
 }
 }
 
