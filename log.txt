@@ -1,0 +1,412 @@
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri No 2nd argument specified 'No 3rd argument specified'
+
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri No 2nd argument specified 'No 3rd argument specified'
+
+Command 'undefined' not recognized, type 'node liri help' for list of commands
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri help 'No 3rd argument specified'
+
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri help 'No 3rd argument specified'
+
+  Possible liri commands are:
+===============================
+  my-tweets     -- this will list tweets from @waltdakind
+
+  spotify-this-song   <'song title (use quotes but not < or >)'>  --   this will look up a song title in spotify
+
+      <<<< WARNING -- LEAVING SONG TITLE BLANK MAY RESULT IN BLINK 182 SHOWING UP IN RESULTS >>>>
+
+  movie-this  <'movie title (use quotes but not < or >)'> --   this gives IMDB info on a given movie title
+  Leaving movie title blank will look up "Mr. Nobody"
+
+  do-what-it-says    --   this calls whatever command is stored in random.txt
+
+Command 'help' not recognized, type 'node liri help' for list of commands
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri spotify-this-song 'friend of the devil'
+
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri spotify-this-song 'friend of the devil'
+
+Querying Spotify now...
+Looking for 'friend of the devil'...
+===============================
+
+Artist:
+Grateful Dead
+
+Name of song:
+Friend Of The Devil
+
+Link to song
+https://open.spotify.com/track/6GgTJJmtDddHoo8Bp6lVcf
+
+Album featured on:
+American Beauty
+===============================
+Artist:
+David Grisman
+
+Name of song:
+Friend Of The Devil
+
+Link to song
+https://open.spotify.com/track/0leJbPzMGogMSlENibTm9B
+
+Album featured on:
+Jerry Garcia & David Grisman
+===============================
+Artist:
+Counting Crows
+
+Name of song:
+Friend Of The Devil
+
+Link to song
+https://open.spotify.com/track/1n0inhH8vfDU88KIhZ1k4g
+
+Album featured on:
+Films About Ghosts: The Best Of...
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Friend Of The Devil - Remastered Version
+
+Link to song
+https://open.spotify.com/track/1kMmDBfMsOrtIkKKzRIBA3
+
+Album featured on:
+The Very Best Of Grateful Dead
+===============================
+Artist:
+Counting Crows
+
+Name of song:
+Friend of the Devil
+
+Link to song
+https://open.spotify.com/track/2U1BKdOqU3z03hgeaxlu3e
+
+Album featured on:
+Echoes of the Outlaw Roadshow
+===============================
+Artist:
+Rockabye Baby!
+
+Name of song:
+Friend of the Devil
+
+Link to song
+https://open.spotify.com/track/3bohHqTavtpIteTbt5IBof
+
+Album featured on:
+Lullaby Rendtions of Grateful Dead
+===============================
+Artist:
+Jerry Garcia
+
+Name of song:
+Friend Of The Devil
+
+Link to song
+https://open.spotify.com/track/62YeLdGOdk81PLV2dVUIt9
+
+Album featured on:
+Grateful Dawg The Original Motion Picture Soundtrack
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Friend Of The Devil - 2015 Remastered Version
+
+Link to song
+https://open.spotify.com/track/5IDsSt8g3Q28BQJM40OSrz
+
+Album featured on:
+The Best Of The Grateful Dead
+===============================
+Artist:
+Tom Petty and the Heartbreakers
+
+Name of song:
+Friend Of The Devil - Live
+
+Link to song
+https://open.spotify.com/track/4BhTu6NjUUBOn62QnbQZGA
+
+Album featured on:
+The Live Anthology
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Friend Of The Devil - Live at The Winterland Ballroom 1970 Version
+
+Link to song
+https://open.spotify.com/track/4WOHYyGKHfRavFg2xncLkg
+
+Album featured on:
+Complete Live Rarities Collection
+===============================
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri help 'No 3rd argument specified'
+
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri help 'No 3rd argument specified'
+
+  Possible liri commands are:
+===============================
+  my-tweets     -- this will list tweets from @waltdakind
+
+  spotify-this-song   <'song title (use quotes but not < or >)'>  --   this will look up a song title in spotify
+
+      <<<< WARNING -- LEAVING SONG TITLE BLANK MAY RESULT IN BLINK 182 SHOWING UP IN RESULTS >>>>
+
+  movie-this  <'movie title (use quotes but not < or >)'> --   this gives IMDB info on a given movie title
+  Leaving movie title blank will look up "Mr. Nobody"
+
+  do-what-it-says    --   this calls whatever command is stored in random.txt
+
+Command 'help' not recognized, type 'node liri help' for list of commands
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri movie-this 'the prestige'
+
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri movie-this 'the prestige'
+
+Searching for: the prestige
+Title:
+The Prestige
+Year:
+2006
+Country:
+USA, UK
+Language:
+English
+Plot:
+Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion.
+Actors:
+Hugh Jackman, Christian Bale, Michael Caine, Piper Perabo
+Rotten Tomatoes Rating:
+7.1
+Rotton Tomatoes UrL:
+http://www.rottentomatoes.com/m/prestige/
+IMDB Rating:
+8.5
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri do-what-it-says 'No 3rd argument specified'
+
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri do-what-it-says 'No 3rd argument specified'
+
+   The random.txt file is present, so the function 'do-what-it-says' is available.
+      spotify-this-song
+      "I Want it That Way"
+Querying Spotify now...
+Looking for '"I Want it That Way"'...
+===============================
+
+Artist:
+Backstreet Boys
+
+Name of song:
+I Want It That Way
+
+Link to song
+https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+
+Album featured on:
+The Hits--Chapter One
+===============================
+Artist:
+Anthem Lights
+
+Name of song:
+I Want It That Way
+
+Link to song
+https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+
+Album featured on:
+Covers Part IV
+===============================
+Artist:
+Boyce Avenue
+
+Name of song:
+I Want It That Way
+
+Link to song
+https://open.spotify.com/track/4YmJGDRo6oGhObb7MaW5om
+
+Album featured on:
+New Acoustic Sessions, Vol. 3
+===============================
+Artist:
+Dynamite Boy
+
+Name of song:
+I Want It That Way
+
+Link to song
+https://open.spotify.com/track/5qQsWgEhiCeLDXYg7lDhAO
+
+Album featured on:
+Punk Goes Pop
+===============================
+Artist:
+Scott Bradlee's Postmodern Jukebox
+
+Name of song:
+I Want It That Way
+
+Link to song
+https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+
+Album featured on:
+PMJ Is For Lovers: The Love Song Collection
+===============================
+Artist:
+Steel Panther
+
+Name of song:
+I Want It That Way
+
+Link to song
+https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+
+Album featured on:
+I Want It That Way
+===============================
+Artist:
+Landon Austin & Julia Sheer
+
+Name of song:
+I Want It That Way
+
+Link to song
+https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5
+
+Album featured on:
+I Want It That Way
+===============================
+Artist:
+La generación de los 90
+
+Name of song:
+I Want It That Way
+
+Link to song
+https://open.spotify.com/track/287RrweQlUBrwVdVPQZUW4
+
+Album featured on:
+Ultimate 90's Mix (The Best the 90's Has to Offer)
+===============================
+Artist:
+FROIDZ
+
+Name of song:
+I Want It That Way
+
+Link to song
+https://open.spotify.com/track/2mXiYb6c52iMmRbP10KUin
+
+Album featured on:
+I Want It That Way
+===============================
+Artist:
+Patent Pending
+
+Name of song:
+I Want It That Way
+
+Link to song
+https://open.spotify.com/track/1WXur1OJ8RlWqU9DcTzyBO
+
+Album featured on:
+Spring Break '99
+===============================
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri my-tweets 'No 3rd argument specified'
+
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri my-tweets 'No 3rd argument specified'
+
+-------------------------
+Mon Apr 04 03:27:16 +0000 2016
+
+RT @SJGraboski: Having a hard time keeping up on the latest trends? Check out this app @waltdakind, John Reda and I developed: https://t.co…
+-------------------------
+Sat Mar 19 01:47:25 +0000 2016
+
+RT @AC360: “It’s almost like they are saying he’s unfit to be President” @brianstelter on @FoxNews statement on Trump https://t.co/Bsog564P…
+-------------------------
+Wed Oct 14 22:43:32 +0000 2015
+
+RT @emilyhasbooks: If #astrology were real, #WallStreet would have harnessed it for massive profits by now.
+-------------------------
+Wed Aug 19 17:31:12 +0000 2015
+
+RT @rebeccawatson: I'm being threatened with a lawsuit by a libel bully! So that's fun. Info: http://t.co/5neeS2oFZs
+-------------------------
+Thu Aug 13 14:09:08 +0000 2015
+
+RT @TechSoup: Retweet if your #nonprofit has NEW tech needs from a year ago. Boost improves as we understand your needs. http://t.co/EPBdbb…
+-------------------------
+Tue Aug 11 22:06:19 +0000 2015
+
+I can't wait either. https://t.co/ldjBWamN26
+-------------------------
+Tue Jun 23 14:18:47 +0000 2015
+
+RT @See_Say_92: White killer: "I am a racist. This was racially motivated." 
+
+Media: "Woah there buddy!!!! We don't know all the facts yet.…
+-------------------------
+Sat Dec 13 16:42:24 +0000 2014
+
+@altonbrown Cognac* not congac.
+-------------------------
+Fri Nov 21 23:16:06 +0000 2014
+
+2  For Phil And Friends 11/21 (GA) #facevaluetickets @cashortrade VISIT: http://t.co/vnjdeRD60F
+-------------------------
+Wed Nov 19 17:38:53 +0000 2014
+
+RT @thelindywest: I'm just going to call it. Bill Cosby is done. http://t.co/9khuA648BG
+-------------------------
+Wed Nov 05 17:14:40 +0000 2014
+
+RT @SkepticsGuide: Coloradans reject GMO labeling, Proposition 105 http://t.co/7z8gGiSPWb
+-------------------------
+Wed Nov 05 17:12:50 +0000 2014
+
+@MrAtheistPants  See, I'm still on Twitter, tweeting away, this is proof.
+-------------------------
+Wed Nov 05 02:28:29 +0000 2014
+
+RT @feministing: Vote today! Because this is what the 2012 map would have looked like if only white men voted: http://t.co/nZIYoNAh92 http:…
+-------------------------
+Wed Nov 05 02:17:11 +0000 2014
+
+RT @AllergyKidsDoc: Actual discussion:
+Parent "I want #Ebola vaccine for my child"
+Doc "There isn't one, but we have #flushot"
+Parent "We d…
+-------------------------
+Wed Nov 05 02:12:47 +0000 2014
+
+RT @tankgrrl: Voter ID laws in a nutshell: ‘We want to make sure not one person votes twice, but are OK with hundreds of thousands not voti…
+-------------------------
+Wed Nov 05 02:12:27 +0000 2014
+
+RT @aurabogado: This is what voting looks like for people of color in Texas today #VoterSuppression http://t.co/iMZOBnlEMy
+-------------------------
+Tue Oct 14 22:33:40 +0000 2014
+
+RT @OkaanAvci: Bir milletin büyüklüğü ve ahlaki gelişimi, hayvanlarına nasıl davrandığıyla anlaşılabilir.
+-------------------------
+Wed Aug 06 19:52:03 +0000 2014
+
+RT @gorskon: For @realDonaldTrump re: #Ebola: 30,000 Americans die of flu every yr and nobody bats an eye… http://t.co/pDYW7Nr5SR http://t.…
+-------------------------
+Wed Jun 04 16:04:02 +0000 2014
+
+RT @dELYSEious: #HowMatters indeed. Do you mean to tell me, @Chobani, that you don't have food scientists? That sounds illegal. http://t.co…
+-------------------------
+Wed Jun 04 16:03:39 +0000 2014
+
+RT @SimonKnowz: .@Chobani:"Nature got us to 100 calories, not scientists #howmatters" http://t.co/TyYD7Diiew Pasteurization. Hello! http://…
