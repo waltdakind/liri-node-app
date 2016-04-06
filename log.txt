@@ -1,0 +1,157 @@
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri.js movie-this rounders
+
+Searching for: rounders
+Title:
+Rounders
+Year:
+1998
+Country:
+USA
+Language:
+English, Hebrew, Russian
+Plot:
+A young man is a reformed gambler who must return to playing big stakes poker to help a friend pay off loan sharks.
+Actors:
+Matt Damon, Gretchen Mol, John Malkovich, Paul Cicero
+Rotten Tomatoes Rating:
+6.2
+Rotton Tomatoes UrL:
+http://www.rottentomatoes.com/m/1083659-rounders/
+IMDB Rating:
+7.4
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri spotify-this-song estimated prophet
+
+Querying Spotify now...
+Looking for estimated prophet...
+===============================
+
+Artist:
+Grateful Dead
+
+Name of song:
+Estimated Prophet
+
+Link to song
+https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi
+
+Album featured on:
+Terrapin Station
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Estimated Prophet (Remastered Album Version)
+
+Link to song
+https://open.spotify.com/track/5gzLGvHDeVbCy7xBcbV38e
+
+Album featured on:
+The Very Best Of Grateful Dead
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Estimated Prophet - 2015 Remastered Version
+
+Link to song
+https://open.spotify.com/track/5ZgeVpVkNbOymZhT8EEyXs
+
+Album featured on:
+The Best Of The Grateful Dead
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Estimated Prophet - Live at Palladium, New York City - 5/4/77
+
+Link to song
+https://open.spotify.com/track/1CWH9G5HQvPlUD6YfODFvp
+
+Album featured on:
+30 Days Of Dead 2015
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Estimated Prophet - Live at Soldier Field, Chicago, IL 7/5/2015
+
+Link to song
+https://open.spotify.com/track/2NINW7diRDLIkLUsMHlgUR
+
+Album featured on:
+Fare Thee Well (Live 7/5/2015)
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Estimated Prophet - Live at Capital Theatre, Passaic, NJ 4/25/77
+
+Link to song
+https://open.spotify.com/track/1U4YBBY6CNrfhkCMGqNYCA
+
+Album featured on:
+30 Trips Around the Sun: The Definitive Story (1965-1995)
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Estimated Prophet - Nassau Coliseum, Uniondale, New York 3/29/90 ; Live
+
+Link to song
+https://open.spotify.com/track/3qKOVsZPYjBiWqPCc4oF9L
+
+Album featured on:
+Wake Up To Find Out: Nassau Coliseum, Uniondale, NY 3/29/1990
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Estimated Prophet [Live at Hartford, CT, May 28, 1977]
+
+Link to song
+https://open.spotify.com/track/7AflQcxch4lC5nn8zSE36A
+
+Album featured on:
+To Terrapin: May 28, 1977 Hartford, CT
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Estimated Prophet - Live at the Capital Center, Landover, MD, March 16, 1990
+
+Link to song
+https://open.spotify.com/track/6p1ESx7Dtk1tJz41opGDBH
+
+Album featured on:
+Spring 1990: So Glad You Made It
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Estimated Prophet [Live At Seneca College Field House, Toronto, Ontario, Canada, November 2, 1977]
+
+Link to song
+https://open.spotify.com/track/77z7QDaK9cE8gLifOvpE8r
+
+Album featured on:
+Dick's Picks Vol. 34: 11/5/77 (Community War Memorial, Rochester, NY)
+
+===============================
