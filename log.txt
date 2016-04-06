@@ -286,3 +286,271 @@ Wed Jun 04 16:03:39 +0000 2014
 RT @SimonKnowz: .@Chobani:"Nature got us to 100 calories, not scientists #howmatters" http://t.co/TyYD7Diiew Pasteurization. Hello! http://…
 -------------------------
 
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri my-tweets 'No 3rd argument specified'
+
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri my-tweets 'No 3rd argument specified'
+
+so far so good
+-------------------------
+Mon Apr 04 03:27:16 +0000 2016
+
+RT @SJGraboski: Having a hard time keeping up on the latest trends? Check out this app @waltdakind, John Reda and I developed: https://t.co…
+-------------------------
+
+-------------------------
+Sat Mar 19 01:47:25 +0000 2016
+
+RT @AC360: “It’s almost like they are saying he’s unfit to be President” @brianstelter on @FoxNews statement on Trump https://t.co/Bsog564P…
+-------------------------
+
+-------------------------
+Wed Oct 14 22:43:32 +0000 2015
+
+RT @emilyhasbooks: If #astrology were real, #WallStreet would have harnessed it for massive profits by now.
+-------------------------
+
+-------------------------
+Wed Aug 19 17:31:12 +0000 2015
+
+RT @rebeccawatson: I'm being threatened with a lawsuit by a libel bully! So that's fun. Info: http://t.co/5neeS2oFZs
+-------------------------
+
+-------------------------
+Thu Aug 13 14:09:08 +0000 2015
+
+RT @TechSoup: Retweet if your #nonprofit has NEW tech needs from a year ago. Boost improves as we understand your needs. http://t.co/EPBdbb…
+-------------------------
+
+-------------------------
+Tue Aug 11 22:06:19 +0000 2015
+
+I can't wait either. https://t.co/ldjBWamN26
+-------------------------
+
+-------------------------
+Tue Jun 23 14:18:47 +0000 2015
+
+RT @See_Say_92: White killer: "I am a racist. This was racially motivated." 
+
+Media: "Woah there buddy!!!! We don't know all the facts yet.…
+-------------------------
+
+-------------------------
+Sat Dec 13 16:42:24 +0000 2014
+
+@altonbrown Cognac* not congac.
+-------------------------
+
+-------------------------
+Fri Nov 21 23:16:06 +0000 2014
+
+2  For Phil And Friends 11/21 (GA) #facevaluetickets @cashortrade VISIT: http://t.co/vnjdeRD60F
+-------------------------
+
+-------------------------
+Wed Nov 19 17:38:53 +0000 2014
+
+RT @thelindywest: I'm just going to call it. Bill Cosby is done. http://t.co/9khuA648BG
+-------------------------
+
+-------------------------
+Wed Nov 05 17:14:40 +0000 2014
+
+RT @SkepticsGuide: Coloradans reject GMO labeling, Proposition 105 http://t.co/7z8gGiSPWb
+-------------------------
+
+-------------------------
+Wed Nov 05 17:12:50 +0000 2014
+
+@MrAtheistPants  See, I'm still on Twitter, tweeting away, this is proof.
+-------------------------
+
+-------------------------
+Wed Nov 05 02:28:29 +0000 2014
+
+RT @feministing: Vote today! Because this is what the 2012 map would have looked like if only white men voted: http://t.co/nZIYoNAh92 http:…
+-------------------------
+
+-------------------------
+Wed Nov 05 02:17:11 +0000 2014
+
+RT @AllergyKidsDoc: Actual discussion:
+Parent "I want #Ebola vaccine for my child"
+Doc "There isn't one, but we have #flushot"
+Parent "We d…
+-------------------------
+
+-------------------------
+Wed Nov 05 02:12:47 +0000 2014
+
+RT @tankgrrl: Voter ID laws in a nutshell: ‘We want to make sure not one person votes twice, but are OK with hundreds of thousands not voti…
+-------------------------
+
+-------------------------
+Wed Nov 05 02:12:27 +0000 2014
+
+RT @aurabogado: This is what voting looks like for people of color in Texas today #VoterSuppression http://t.co/iMZOBnlEMy
+-------------------------
+
+-------------------------
+Tue Oct 14 22:33:40 +0000 2014
+
+RT @OkaanAvci: Bir milletin büyüklüğü ve ahlaki gelişimi, hayvanlarına nasıl davrandığıyla anlaşılabilir.
+-------------------------
+
+-------------------------
+Wed Aug 06 19:52:03 +0000 2014
+
+RT @gorskon: For @realDonaldTrump re: #Ebola: 30,000 Americans die of flu every yr and nobody bats an eye… http://t.co/pDYW7Nr5SR http://t.…
+-------------------------
+
+-------------------------
+Wed Jun 04 16:04:02 +0000 2014
+
+RT @dELYSEious: #HowMatters indeed. Do you mean to tell me, @Chobani, that you don't have food scientists? That sounds illegal. http://t.co…
+-------------------------
+
+-------------------------
+Wed Jun 04 16:03:39 +0000 2014
+
+RT @SimonKnowz: .@Chobani:"Nature got us to 100 calories, not scientists #howmatters" http://t.co/TyYD7Diiew Pasteurization. Hello! http://…
+-------------------------
+
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri spotify-this-song 'eyes of the world'
+
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri spotify-this-song 'eyes of the world'
+
+Querying Spotify now...
+Looking for 'eyes of the world'...
+===============================
+
+Artist:
+Grateful Dead
+
+Name of song:
+Eyes Of The World
+
+Link to song
+https://open.spotify.com/track/0qJ6owHt00MMZTpNmNsPHC
+
+Album featured on:
+The Very Best Of Grateful Dead
+
+===============================
+Artist:
+Fleetwood Mac
+
+Name of song:
+Eyes Of The World
+
+Link to song
+https://open.spotify.com/track/1DpDHVyx6vxeELZwXNZ21t
+
+Album featured on:
+Mirage
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Eyes Of The World - 2015 Remastered Version
+
+Link to song
+https://open.spotify.com/track/56ievBgGBhN1T7HBGTcKS2
+
+Album featured on:
+The Best Of The Grateful Dead
+
+===============================
+Artist:
+Rainbow
+
+Name of song:
+Eyes Of The World
+
+Link to song
+https://open.spotify.com/track/1NEbGsZKyChp3SItwGafjV
+
+Album featured on:
+Down To Earth (Deluxe Edition)
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Eyes Of The World - Nassau Coliseum, Uniondale, New York 3/29/90 ; Live
+
+Link to song
+https://open.spotify.com/track/5JzQiiTZLNJQfv6v3t9w2e
+
+Album featured on:
+Wake Up To Find Out: Nassau Coliseum, Uniondale, NY 3/29/1990
+
+===============================
+Artist:
+Fleetwood Mac
+
+Name of song:
+Eyes Of The World - Live PBS Version
+
+Link to song
+https://open.spotify.com/track/27C7PbgqQkjksf1ul2AqU0
+
+Album featured on:
+Live In Boston
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Eyes Of The World [Live October 1989 - April 1990]
+
+Link to song
+https://open.spotify.com/track/7LjrWSPYdT0CuAZKCa6MTg
+
+Album featured on:
+Without A Net
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Eyes Of The World - Live at Knickerbocker Arena, Albany, NY 3/25/90
+
+Link to song
+https://open.spotify.com/track/5aimUCjZHJBZtkzfFJZ4Ym
+
+Album featured on:
+Spring 1990: The Other One Sampler
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Eyes Of The World [Live At Community War Memorial, Rochester, NY, November 5, 1977]
+
+Link to song
+https://open.spotify.com/track/1Yyj7ReuYOod1EEjhOKzLg
+
+Album featured on:
+Dick's Picks Vol. 34: 11/5/77 (Community War Memorial, Rochester, NY)
+
+===============================
+Artist:
+Grateful Dead
+
+Name of song:
+Eyes Of The World / Drums [Live At The Great American Music Hall, San Francisco, CA, August 13, 1975]
+
+Link to song
+https://open.spotify.com/track/6rJ8dq2kvBxthFFVuHn8NE
+
+Album featured on:
+One From The Vault
+
+===============================

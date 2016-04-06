@@ -1,0 +1,28 @@
+"engines": {
+    "node": "5.9.1"
+  },
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "performs multiple searches on node command line:",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waltdakind/liri-node-app.git"
+  },
+  "author": "Walter Mattingly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waltdakind/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/waltdakind/liri-node-app#readme"
+},
+{ "dependencies" :
+  { "spotify" : "0.3.0"
+  , "twitter" : "1.2.5"
+  , "request" : "2.6.7"
+  }
+}
