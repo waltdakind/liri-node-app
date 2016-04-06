@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //liri.js
 //request for OMDB
 var request = require('request');
@@ -221,7 +220,7 @@ mainThing(stuffToDO[0], stuffToDO[1]);
 
 	}
 //========================================
-=======
+
 //liri.js
 //request for OMDB
 var request = require('request');
@@ -444,5 +443,4 @@ mainThing(stuffToDO[0], stuffToDO[1]);
 
 	}
 //========================================
->>>>>>> 19c73d65390472e2561c6b3052f0b933c9be1c22
 mainThing(liri, movieOrSong);
