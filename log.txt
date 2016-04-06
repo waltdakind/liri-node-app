@@ -1,8 +1,3 @@
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri No 2nd argument specified 'No 3rd argument specified'
-
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri No 2nd argument specified 'No 3rd argument specified'
-
-Command 'undefined' not recognized, type 'node liri help' for list of commands
 C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri help 'No 3rd argument specified'
 
 C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri help 'No 3rd argument specified'
@@ -21,175 +16,246 @@ C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\
   do-what-it-says    --   this calls whatever command is stored in random.txt
 
 Command 'help' not recognized, type 'node liri help' for list of commands
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri spotify-this-song 'friend of the devil'
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri my-tweets 'No 3rd argument specified'
 
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri spotify-this-song 'friend of the devil'
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri my-tweets 'No 3rd argument specified'
+
+-------------------------
+Mon Apr 04 03:27:16 +0000 2016
+
+RT @SJGraboski: Having a hard time keeping up on the latest trends? Check out this app @waltdakind, John Reda and I developed: https://t.co…
+-------------------------
+Sat Mar 19 01:47:25 +0000 2016
+
+RT @AC360: “It’s almost like they are saying he’s unfit to be President” @brianstelter on @FoxNews statement on Trump https://t.co/Bsog564P…
+-------------------------
+Wed Oct 14 22:43:32 +0000 2015
+
+RT @emilyhasbooks: If #astrology were real, #WallStreet would have harnessed it for massive profits by now.
+-------------------------
+Wed Aug 19 17:31:12 +0000 2015
+
+RT @rebeccawatson: I'm being threatened with a lawsuit by a libel bully! So that's fun. Info: http://t.co/5neeS2oFZs
+-------------------------
+Thu Aug 13 14:09:08 +0000 2015
+
+RT @TechSoup: Retweet if your #nonprofit has NEW tech needs from a year ago. Boost improves as we understand your needs. http://t.co/EPBdbb…
+-------------------------
+Tue Aug 11 22:06:19 +0000 2015
+
+I can't wait either. https://t.co/ldjBWamN26
+-------------------------
+Tue Jun 23 14:18:47 +0000 2015
+
+RT @See_Say_92: White killer: "I am a racist. This was racially motivated." 
+
+Media: "Woah there buddy!!!! We don't know all the facts yet.…
+-------------------------
+Sat Dec 13 16:42:24 +0000 2014
+
+@altonbrown Cognac* not congac.
+-------------------------
+Fri Nov 21 23:16:06 +0000 2014
+
+2  For Phil And Friends 11/21 (GA) #facevaluetickets @cashortrade VISIT: http://t.co/vnjdeRD60F
+-------------------------
+Wed Nov 19 17:38:53 +0000 2014
+
+RT @thelindywest: I'm just going to call it. Bill Cosby is done. http://t.co/9khuA648BG
+-------------------------
+Wed Nov 05 17:14:40 +0000 2014
+
+RT @SkepticsGuide: Coloradans reject GMO labeling, Proposition 105 http://t.co/7z8gGiSPWb
+-------------------------
+Wed Nov 05 17:12:50 +0000 2014
+
+@MrAtheistPants  See, I'm still on Twitter, tweeting away, this is proof.
+-------------------------
+Wed Nov 05 02:28:29 +0000 2014
+
+RT @feministing: Vote today! Because this is what the 2012 map would have looked like if only white men voted: http://t.co/nZIYoNAh92 http:…
+-------------------------
+Wed Nov 05 02:17:11 +0000 2014
+
+RT @AllergyKidsDoc: Actual discussion:
+Parent "I want #Ebola vaccine for my child"
+Doc "There isn't one, but we have #flushot"
+Parent "We d…
+-------------------------
+Wed Nov 05 02:12:47 +0000 2014
+
+RT @tankgrrl: Voter ID laws in a nutshell: ‘We want to make sure not one person votes twice, but are OK with hundreds of thousands not voti…
+-------------------------
+Wed Nov 05 02:12:27 +0000 2014
+
+RT @aurabogado: This is what voting looks like for people of color in Texas today #VoterSuppression http://t.co/iMZOBnlEMy
+-------------------------
+Tue Oct 14 22:33:40 +0000 2014
+
+RT @OkaanAvci: Bir milletin büyüklüğü ve ahlaki gelişimi, hayvanlarına nasıl davrandığıyla anlaşılabilir.
+-------------------------
+Wed Aug 06 19:52:03 +0000 2014
+
+RT @gorskon: For @realDonaldTrump re: #Ebola: 30,000 Americans die of flu every yr and nobody bats an eye… http://t.co/pDYW7Nr5SR http://t.…
+-------------------------
+Wed Jun 04 16:04:02 +0000 2014
+
+RT @dELYSEious: #HowMatters indeed. Do you mean to tell me, @Chobani, that you don't have food scientists? That sounds illegal. http://t.co…
+-------------------------
+Wed Jun 04 16:03:39 +0000 2014
+
+RT @SimonKnowz: .@Chobani:"Nature got us to 100 calories, not scientists #howmatters" http://t.co/TyYD7Diiew Pasteurization. Hello! http://…
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri spotify-this-song 'no sleep till brooklyn'
+
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri spotify-this-song 'no sleep till brooklyn'
 
 Querying Spotify now...
-Looking for 'friend of the devil'...
+Looking for 'no sleep till brooklyn'...
 ===============================
 
 Artist:
-Grateful Dead
+Beastie Boys
 
 Name of song:
-Friend Of The Devil
+No Sleep Till Brooklyn
 
 Link to song
-https://open.spotify.com/track/6GgTJJmtDddHoo8Bp6lVcf
+https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN
 
 Album featured on:
-American Beauty
+Licensed To Ill
 ===============================
 Artist:
-David Grisman
+Beastie Boys
 
 Name of song:
-Friend Of The Devil
+No Sleep Till Brooklyn
 
 Link to song
-https://open.spotify.com/track/0leJbPzMGogMSlENibTm9B
+https://open.spotify.com/track/76tglnQFXgUT9o4bS9v05G
 
 Album featured on:
-Jerry Garcia & David Grisman
-===============================
-Artist:
-Counting Crows
-
-Name of song:
-Friend Of The Devil
-
-Link to song
-https://open.spotify.com/track/1n0inhH8vfDU88KIhZ1k4g
-
-Album featured on:
-Films About Ghosts: The Best Of...
-===============================
-Artist:
-Grateful Dead
-
-Name of song:
-Friend Of The Devil - Remastered Version
-
-Link to song
-https://open.spotify.com/track/1kMmDBfMsOrtIkKKzRIBA3
-
-Album featured on:
-The Very Best Of Grateful Dead
-===============================
-Artist:
-Counting Crows
-
-Name of song:
-Friend of the Devil
-
-Link to song
-https://open.spotify.com/track/2U1BKdOqU3z03hgeaxlu3e
-
-Album featured on:
-Echoes of the Outlaw Roadshow
+Def Jam Music Group Tenth Year Anniversary Box Set
 ===============================
 Artist:
 Rockabye Baby!
 
 Name of song:
-Friend of the Devil
+No Sleep Till Brooklyn (Lullaby Rendition of Beastie Boys)
 
 Link to song
-https://open.spotify.com/track/3bohHqTavtpIteTbt5IBof
+https://open.spotify.com/track/0Q1S6JTTacWnrNJhUXlry0
 
 Album featured on:
-Lullaby Rendtions of Grateful Dead
+Good Day, Goodnight
 ===============================
 Artist:
-Jerry Garcia
+Sheyi Olagunju
 
 Name of song:
-Friend Of The Devil
+No Sleep (Till NYC) - Brooklyn Dub Mix
 
 Link to song
-https://open.spotify.com/track/62YeLdGOdk81PLV2dVUIt9
+https://open.spotify.com/track/7qb9r4jdV0ESqQCiBZhsRL
 
 Album featured on:
-Grateful Dawg The Original Motion Picture Soundtrack
+No Sleep (Till NYC)
 ===============================
 Artist:
-Grateful Dead
+Lo Mejor del Rock de los 80
 
 Name of song:
-Friend Of The Devil - 2015 Remastered Version
+No Sleep Till Brooklyn
 
 Link to song
-https://open.spotify.com/track/5IDsSt8g3Q28BQJM40OSrz
+https://open.spotify.com/track/4IWRizlSY8s0ULSTQWlsxh
 
 Album featured on:
-The Best Of The Grateful Dead
+Lo Mejor del Rock de los 80: Vol. 10
 ===============================
 Artist:
-Tom Petty and the Heartbreakers
+The Karaoke Channel
 
 Name of song:
-Friend Of The Devil - Live
+No Sleep Till Brooklyn
 
 Link to song
-https://open.spotify.com/track/4BhTu6NjUUBOn62QnbQZGA
+https://open.spotify.com/track/7wyrNcp4sPkKlwIuYxhg6G
 
 Album featured on:
-The Live Anthology
+The Karaoke Channel - Sing No Sleep Till Brooklyn Like Beastie Boys
 ===============================
 Artist:
-Grateful Dead
+Done Again
 
 Name of song:
-Friend Of The Devil - Live at The Winterland Ballroom 1970 Version
+No Sleep Till Brooklyn (In the Style of Beastie Boys) [Performance Track with Demonstration Vocals]
 
 Link to song
-https://open.spotify.com/track/4WOHYyGKHfRavFg2xncLkg
+https://open.spotify.com/track/7v1y3Wp97CfLM1VmdXWlep
 
 Album featured on:
-Complete Live Rarities Collection
+No Sleep Till Brooklyn (In the Style of Beastie Boys) [Performance Track with Demonstration Vocals]
 ===============================
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri help 'No 3rd argument specified'
+Artist:
+Ameritz - Tribute
 
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri help 'No 3rd argument specified'
+Name of song:
+No Sleep Till Brooklyn - A Tribute to the Beastie Boys
 
-  Possible liri commands are:
+Link to song
+https://open.spotify.com/track/0sXBGyRLkiwpvyAsmyhbqL
+
+Album featured on:
+No Sleep Till Brooklyn - A Tribute to the Beastie Boys
 ===============================
-  my-tweets     -- this will list tweets from @waltdakind
+Artist:
+The Karaoke Channel
 
-  spotify-this-song   <'song title (use quotes but not < or >)'>  --   this will look up a song title in spotify
+Name of song:
+No Sleep Till Brooklyn (In the Style of Beastie Boys) [Karaoke Version]
 
-      <<<< WARNING -- LEAVING SONG TITLE BLANK MAY RESULT IN BLINK 182 SHOWING UP IN RESULTS >>>>
+Link to song
+https://open.spotify.com/track/4G8pDEH5lhyXJBc8cWHXsN
 
-  movie-this  <'movie title (use quotes but not < or >)'> --   this gives IMDB info on a given movie title
-  Leaving movie title blank will look up "Mr. Nobody"
+Album featured on:
+The Karaoke Channel - Sing No Sleep Till Brooklyn Like Beastie Boys
+===============================
+Artist:
+The Karaoke Channel
 
-  do-what-it-says    --   this calls whatever command is stored in random.txt
+Name of song:
+No Sleep Till Brooklyn
 
-Command 'help' not recognized, type 'node liri help' for list of commands
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri movie-this 'the prestige'
+Link to song
+https://open.spotify.com/track/4FTsILB3ilKLFOh8phIJ6K
 
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri movie-this 'the prestige'
+Album featured on:
+The Karaoke Channel - In The Style Of Beastie Boys - Vol. 1
+===============================
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri movie-this 'a river runs through it'
 
-Searching for: the prestige
+C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri movie-this 'a river runs through it'
+
+Searching for: a river runs through it
 Title:
-The Prestige
+A River Runs Through It
 Year:
-2006
+1992
 Country:
-USA, UK
+USA
 Language:
 English
 Plot:
-Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion.
+The story about two sons of a stern minister -- one reserved, one rebellious -- growing up in rural Montana while devoted to fly fishing.
 Actors:
-Hugh Jackman, Christian Bale, Michael Caine, Piper Perabo
+Craig Sheffer, Brad Pitt, Tom Skerritt, Brenda Blethyn
 Rotten Tomatoes Rating:
-7.1
+6.8
 Rotton Tomatoes UrL:
-http://www.rottentomatoes.com/m/prestige/
+http://www.rottentomatoes.com/m/river_runs_through_it/
 IMDB Rating:
-8.5
+7.3
 C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri do-what-it-says 'No 3rd argument specified'
 
 C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri do-what-it-says 'No 3rd argument specified'
@@ -321,92 +387,3 @@ https://open.spotify.com/track/1WXur1OJ8RlWqU9DcTzyBO
 Album featured on:
 Spring Break '99
 ===============================
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri my-tweets 'No 3rd argument specified'
-
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri my-tweets 'No 3rd argument specified'
-
--------------------------
-Mon Apr 04 03:27:16 +0000 2016
-
-RT @SJGraboski: Having a hard time keeping up on the latest trends? Check out this app @waltdakind, John Reda and I developed: https://t.co…
--------------------------
-Sat Mar 19 01:47:25 +0000 2016
-
-RT @AC360: “It’s almost like they are saying he’s unfit to be President” @brianstelter on @FoxNews statement on Trump https://t.co/Bsog564P…
--------------------------
-Wed Oct 14 22:43:32 +0000 2015
-
-RT @emilyhasbooks: If #astrology were real, #WallStreet would have harnessed it for massive profits by now.
--------------------------
-Wed Aug 19 17:31:12 +0000 2015
-
-RT @rebeccawatson: I'm being threatened with a lawsuit by a libel bully! So that's fun. Info: http://t.co/5neeS2oFZs
--------------------------
-Thu Aug 13 14:09:08 +0000 2015
-
-RT @TechSoup: Retweet if your #nonprofit has NEW tech needs from a year ago. Boost improves as we understand your needs. http://t.co/EPBdbb…
--------------------------
-Tue Aug 11 22:06:19 +0000 2015
-
-I can't wait either. https://t.co/ldjBWamN26
--------------------------
-Tue Jun 23 14:18:47 +0000 2015
-
-RT @See_Say_92: White killer: "I am a racist. This was racially motivated." 
-
-Media: "Woah there buddy!!!! We don't know all the facts yet.…
--------------------------
-Sat Dec 13 16:42:24 +0000 2014
-
-@altonbrown Cognac* not congac.
--------------------------
-Fri Nov 21 23:16:06 +0000 2014
-
-2  For Phil And Friends 11/21 (GA) #facevaluetickets @cashortrade VISIT: http://t.co/vnjdeRD60F
--------------------------
-Wed Nov 19 17:38:53 +0000 2014
-
-RT @thelindywest: I'm just going to call it. Bill Cosby is done. http://t.co/9khuA648BG
--------------------------
-Wed Nov 05 17:14:40 +0000 2014
-
-RT @SkepticsGuide: Coloradans reject GMO labeling, Proposition 105 http://t.co/7z8gGiSPWb
--------------------------
-Wed Nov 05 17:12:50 +0000 2014
-
-@MrAtheistPants  See, I'm still on Twitter, tweeting away, this is proof.
--------------------------
-Wed Nov 05 02:28:29 +0000 2014
-
-RT @feministing: Vote today! Because this is what the 2012 map would have looked like if only white men voted: http://t.co/nZIYoNAh92 http:…
--------------------------
-Wed Nov 05 02:17:11 +0000 2014
-
-RT @AllergyKidsDoc: Actual discussion:
-Parent "I want #Ebola vaccine for my child"
-Doc "There isn't one, but we have #flushot"
-Parent "We d…
--------------------------
-Wed Nov 05 02:12:47 +0000 2014
-
-RT @tankgrrl: Voter ID laws in a nutshell: ‘We want to make sure not one person votes twice, but are OK with hundreds of thousands not voti…
--------------------------
-Wed Nov 05 02:12:27 +0000 2014
-
-RT @aurabogado: This is what voting looks like for people of color in Texas today #VoterSuppression http://t.co/iMZOBnlEMy
--------------------------
-Tue Oct 14 22:33:40 +0000 2014
-
-RT @OkaanAvci: Bir milletin büyüklüğü ve ahlaki gelişimi, hayvanlarına nasıl davrandığıyla anlaşılabilir.
--------------------------
-Wed Aug 06 19:52:03 +0000 2014
-
-RT @gorskon: For @realDonaldTrump re: #Ebola: 30,000 Americans die of flu every yr and nobody bats an eye… http://t.co/pDYW7Nr5SR http://t.…
--------------------------
-Wed Jun 04 16:04:02 +0000 2014
-
-RT @dELYSEious: #HowMatters indeed. Do you mean to tell me, @Chobani, that you don't have food scientists? That sounds illegal. http://t.co…
--------------------------
-Wed Jun 04 16:03:39 +0000 2014
-
-RT @SimonKnowz: .@Chobani:"Nature got us to 100 calories, not scientists #howmatters" http://t.co/TyYD7Diiew Pasteurization. Hello! http://…
