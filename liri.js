@@ -323,7 +323,6 @@ switch(liri) {
 //twitter api function 'my-tweets'
 //================================================
 function twitter() {
-	logAndDisplay('so far so good');
 	var params = {screen_name: 'waltdakind'};
 client.get('statuses/user_timeline', params, function(error, tweets, response){
   if (!error) {
@@ -332,8 +331,8 @@ client.get('statuses/user_timeline', params, function(error, tweets, response){
 logAndDisplay(tweets[i].created_at);
 logAndDisplay('');
 logAndDisplay(tweets[i].text);
-    	logAndDisplay('-------------------------');
-    	    	logAndDisplay('');
+
+
     }
   }
 });
@@ -375,7 +374,6 @@ logAndDisplay('');
 // album that the song is a part of
 logAndDisplay('Album featured on:');
 logAndDisplay(songlist.album.name);
-logAndDisplay('');
 
 logAndDisplay('===============================');
 }
