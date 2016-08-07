@@ -1,1 +1,7 @@
 # replace with your twitter API key
+
+exports.twitterKeys = 
+{ consumer_key: 'secret consumer key goes here',
+consumer_secret: 'consumer secret key here',
+access_token_key: 'secret token key',
+access_token_secret: 'and so on...' }
