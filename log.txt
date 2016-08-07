@@ -1,7 +1,3 @@
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri help 'No 3rd argument specified'
-
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri help 'No 3rd argument specified'
-
   Possible liri commands are:
 ===============================
   my-tweets     -- this will list tweets from @waltdakind
@@ -14,11 +10,6 @@ C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\
   Leaving movie title blank will look up "Mr. Nobody"
 
   do-what-it-says    --   this calls whatever command is stored in random.txt
-
-Command 'help' not recognized, type 'node liri help' for list of commands
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri my-tweets 'No 3rd argument specified'
-
-C:\Program Files\nodejs\node.exe C:\Users\Walter\Documents\Coding\liri-node-app\liri my-tweets 'No 3rd argument specified'
 
 -------------------------
 Mon Apr 04 03:27:16 +0000 2016
