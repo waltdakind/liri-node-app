@@ -19,4 +19,6 @@ performs a search based on commands left in a file called 'random.txt'
 
 logs commands entered and search results to a a file called log.txt
 
+# Getting Started
+Run 'npm install'
 
